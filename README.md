@@ -21,4 +21,9 @@ Build an application to digitalize registration process with respect to Land , S
 * Read-Write role where in user can view/update the latest record. This role is automatically assigned to registar only. 
 Note: When the registar updates latest record it will go through three layers of security approval before sending it back to registar for final approval again.
 
-
+## Technology Stack (might change or new things can be added in the later stage of the application)
+* Python .. GeoCode service , payment gateway, Digital token creation
+* Django .. For Rest framework and backend services
+* ReactJS ..  User Interface,Spell checker component, Image Uploa Component
+* MongoDB .. For Data storage
+* Express JS .. For routing
