@@ -26,6 +26,7 @@ Build an application to digitize registration process with respect to Land , Sal
 
 ## Technology Stack (might change or new things can be added in the later stage of the application)
 * Python .. GeoCode service , payment gateway, Digital token creation
+* Flask
 * Django .. For Rest framework and backend services
 * ReactJS ..  User Interface,Spell checker component, Image Uploa Component
 * MongoDB .. For Data storage
