@@ -31,3 +31,4 @@ Build an application to digitize registration process with respect to Land , Sal
 * ReactJS ..  User Interface,Spell checker component, Image Uploa Component
 * MongoDB .. For Data storage
 * Express JS .. For routing
+#### Note : Just started working on the implementation.. Lot of work need to be done
