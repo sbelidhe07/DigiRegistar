@@ -6,7 +6,7 @@ Build an application to digitize registration process with respect to Land , Sal
 * We will have three layers of security approvals before sending it to final approval by registar with this digital signature.Registar cannot approve the document without approval confirmations from the three security layers
 * Payment gateway will be integrated into the application for paying the registration and other respective charges
 * All the records (latest + last 5 years data) will be maintained in a widget which will be accessible based on the roles associated with the users using the application.
-* Creation of digital token that need to be used for approval process
+* Creation of token that need to be used for approval process
 * Education criteria setting
 * Inbuilt spell checker which highlights if there are any mistakes
 * Geo-code service which will depict the picture of the land based on the location and attach it to the document as a reference document. This is used for sale deeds and land records.
