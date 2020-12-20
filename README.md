@@ -1,4 +1,4 @@
-# DigiRegistrar
+# DigiRegistrar ( This is the idea evovled while working on Hack In North Hackathon)
 Build an application to digitize registration process with respect to Land , Sale Deeds , Marriage & other respective records at one place so that there would be no need of in person visit where in we have to wait for long time at the respective registar office to complete the necessary registration process. 
 
 ## Features in the Application
